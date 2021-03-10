@@ -1,0 +1,15 @@
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\IE_Laboratory.mdf
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\IE_Laboratory_log.ldf
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.addComponent.resources
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.login.resources
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.view_components.resources
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\IE_Lab_Management_System.csproj.GenerateResource.cache
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\IE_Lab_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.opening_page.resources
+C:\Users\surya\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.without_login_view.resources
